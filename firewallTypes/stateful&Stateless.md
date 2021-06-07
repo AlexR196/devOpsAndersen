@@ -1,0 +1,2 @@
+# stateless/stateful firewalls 
+Opened ports on router devices can be scanned for penetration inside the network. In order to secure networks from situations like this, stateful firewalls are created. Basically, they are net filters for incoming packets/frames. Stateful firewalls are checking so-called "states" - number of characteristic from address of end-point to particular labels in header packets/frames. Those cane be set at Application-network layers.
